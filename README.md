@@ -16,14 +16,13 @@ Project is created with:
 * HTML 5
 * JavaScript 6
 * Node.js 12.18.4
-* Mailchimp
 * Dependencies: {"body-parser": "1.19.0", and "express": "4.17.1"}
 
 ## Project status
 * Complete
 	
 ## Setup
-To run this project, install node.js and after install dependencies locally using npm:
+To run this project, install node.js and install dependencies locally using npm:
 
 ```
 $ cd ~
